@@ -20,7 +20,7 @@ public class Calls {
 		 System.out.println( "Country3: "+ c3 +   " units per min. Please input duration of talk:");
 		 double t3 = Double.parseDouble(sc.nextLine());
 		 sc.close();
-		 sc.close();
+		 
 		 
 		 System.out.println("Call 1:	 " + c1*t1+ " utits");
 		 System.out.println("Call 2:	 " + c2*t2+ " utits");
