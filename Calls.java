@@ -25,8 +25,8 @@ public class Calls {
 		 System.out.println("Call 1:	 " + c1*t1+ " utits");
 		 System.out.println("Call 2:	 " + c2*t2+ " utits");
 		 System.out.println("Call 3:	 " + c3*t3+ " utits");
-		 System.out.println("Total:	" +  (c1*t1+c2*t2+t3*c3) + " un its"); 
-		 System.out.println("End :)");
+		 System.out.println("Total:	" +  (c1*t1+c2*t2+t3*c3) + " units"); 
+		 System.out.println(" The End :)");
 
 }
 }
