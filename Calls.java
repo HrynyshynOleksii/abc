@@ -14,11 +14,12 @@ public class Calls {
 		 double c2 = Double.parseDouble(sc.nextLine());
 		 System.out.println( "Country2: "+ c2 +   " units per min. Please input duration of talk:");
 		 double t2 = Double.parseDouble(sc.nextLine());
-		 
+		  
 		 System.out.println("Input price of units per min from country3: ");
 		 double c3 = Double.parseDouble(sc.nextLine());
 		 System.out.println( "Country3: "+ c3 +   " units per min. Please input duration of talk:");
 		 double t3 = Double.parseDouble(sc.nextLine());
+		 sc.close();
 		 sc.close();
 		 
 		 System.out.println("Call 1:	 " + c1*t1+ " utits");
